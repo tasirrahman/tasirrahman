@@ -23,14 +23,14 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 
 #### 🚀 Platform Coverage & Focus
 
-| Platform | Practice Environment |
-|----------|--------|
-| Android Application | 🔓 Unlocked |
-| Web Application | 🔓 Unlocked |
-| Windows Application | 🔓 Unlocked |
-| iOS Application | 🔒 Locked |
-| macOS Application | 🔒 Locked |
-| Embedded Applications | 🔒 Locked |
+| Platform | Practice Environment | Focus |
+|----------|--------|--------|
+| Android Application | 🔓 Unlocked | Primary |
+| Web Application | 🔓 Unlocked | Primary |
+| Windows Application | 🔓 Unlocked | Secondary |
+| iOS Application | 🔒 Locked | Primary |
+| macOS Application | 🔒 Locked | Secondary |
+| Embedded Applications | 🔒 Locked | Secondary |
 
 #### 🧠 Engineering Principles
 
