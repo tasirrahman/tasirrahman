@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Tasir Rahman
 
-<!--
-**tasirrahman/tasirrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineer & Entrepreneur passionate about creating mobile and web apps that solve real problems.  
 
-Here are some ideas to get you started:
+#### 🧰 Core Learning Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category            | Skills                       |
+|--------------------|------------------------------|
+| **Languages**       | Dart, JavaScript, TypeScript |
+| **Web Fundamentals**| HTML5, CSS3                  |
+
+#### ⚙️ Core Development Focus
+
+| Layer | Primary Stack | Secondary Stack | Exploration |
+|-------|---------------|----------------|------------|
+| Mobile | Flutter | — | — |
+| Desktop | Flutter | — | — |
+| Web | — | React.js, Next.js | — |
+| Backend | Dart Frog | Express.js | — |
+| Embedded, AI & ML | Flutter | — | TensorFlow, LangChain and Others |
+
+**Strategic Focus:** Leverage deep expertise in Flutter and Dart Frog while scaling all other operations through AI-driven, adaptive learning and continuous optimization.  
+
+#### 🚀 Platform Coverage & Focus
+
+| Platform | Practice Environment |
+|----------|--------|
+| Android Application | 🔓 Unlocked |
+| Web Application | 🔓 Unlocked |
+| Windows Application | 🔓 Unlocked |
+| iOS Application | 🔒 Locked |
+| macOS Application | 🔒 Locked |
+| Embedded Applications | 🔒 Locked |
+
+#### 🧠 Engineering Principles
+
+- Build systems for **scale**, not just for today  
+- Design UI & features that **convert users into customers**  
+- Ship only when **quality benchmarks** are met  
+- Treat **security as foundational**, not optional  
+
+#### 🌿 Life Philosophy
+
+Think, build, scale, and enjoy the journey.  
+Growth matters. So does living.  
