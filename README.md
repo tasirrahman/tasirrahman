@@ -18,8 +18,6 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 | Backend | Dart Frog | Express.js | — |
 | Embedded, AI & ML | — | — | Flutter, TensorFlow, LangChain and Others |
 
-**Strategic Focus:** Leverage deep expertise in Flutter and Dart Frog while scaling all other operations through AI-driven, adaptive learning and continuous optimization.  
-
 #### 🚀 Platform Coverage & Focus
 
 | Platform | Practice Environment | Focus |
@@ -30,6 +28,10 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 | Windows Application | 🔓 Unlocked | Secondary |
 | macOS Application | 🔒 Locked | Secondary |
 | Embedded Applications | 🔒 Locked | Secondary |
+
+#### 🎯 Vision
+
+**Strategic Focus:** Lead as a Mobile Engineer with deep Flutter expertise, backed by Dart Frog on the backend. All other skills function as accelerators, scaled through AI-driven, adaptive learning and continuous optimization. 
 
 #### 🧠 Engineering Principles
 
