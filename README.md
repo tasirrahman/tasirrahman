@@ -13,11 +13,10 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 
 | Layer | Primary Stack | Secondary Stack | Exploration |
 |-------|---------------|----------------|------------|
-| Mobile | Flutter | — | — |
-| Desktop | Flutter | — | — |
-| Web | — | React.js, Next.js | — |
+| Cross-Platform | Flutter | — | — |
+| Frontend | — | React.js, Next.js | — |
 | Backend | Dart Frog | Express.js | — |
-| Embedded, AI & ML | Flutter | — | TensorFlow, LangChain and Others |
+| Embedded, AI & ML | — | — | Flutter, TensorFlow, LangChain and Others |
 
 **Strategic Focus:** Leverage deep expertise in Flutter and Dart Frog while scaling all other operations through AI-driven, adaptive learning and continuous optimization.  
 
@@ -25,17 +24,17 @@ A Software Engineer & Entrepreneur passionate about creating mobile and web apps
 
 | Platform | Practice Environment | Focus |
 |----------|--------|--------|
-| Android Application | 🔓 Unlocked | Primary |
 | Web Application | 🔓 Unlocked | Primary |
-| Windows Application | 🔓 Unlocked | Secondary |
+| Android Application | 🔓 Unlocked | Primary |
 | iOS Application | 🔒 Locked | Primary |
+| Windows Application | 🔓 Unlocked | Secondary |
 | macOS Application | 🔒 Locked | Secondary |
 | Embedded Applications | 🔒 Locked | Secondary |
 
 #### 🧠 Engineering Principles
 
 - Build systems for **scale**, not just for today  
-- Design UI & features that **convert users into customers**  
+- Design UI/UX & features that **convert users into customers**  
 - Ship only when **quality benchmarks** are met  
 - Treat **security as foundational**, not optional  
 
