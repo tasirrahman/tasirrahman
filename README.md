@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tasir Rahman
 
-A Software Engineer & Entrepreneur passionate about creating mobile and web apps that solve real problems.  
+A Software Engineer & Entrepreneur passionate about creating applications that solve real problems.  
 
 #### 🧰 Core Learning Focus
 
