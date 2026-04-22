@@ -16,7 +16,7 @@ A Software Engineer & Entrepreneur passionate about creating applications that s
 | Cross-Platform | Flutter | — | — |
 | Frontend | — | React.js, Next.js | WXT, Angular |
 | Backend | Dart Frog | Express.js | Encore |
-| Embedded, AI & ML | Flutter | TensorFlow and Others | LangChain and Others |
+| Embedded, AI & ML | Flutter and Others | TensorFlow and Others | LangChain and Others |
 
 #### 🚀 Platform Coverage & Focus
 
