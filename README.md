@@ -6,7 +6,7 @@ A software engineer & entrepreneur passionate about creating applications that s
 
 | Category            | Skills                       |
 |--------------------|------------------------------|
-| **Languages**       | Dart, JavaScript, TypeScript |
+| **Languages**       | Dart, JavaScript, TypeScript, C++ |
 | **Web Fundamentals**| HTML5, CSS3                  |
 
 #### ⚙️ Core Development Focus
@@ -17,18 +17,20 @@ A software engineer & entrepreneur passionate about creating applications that s
 | Frontend | — | React.js | WXT, Angular, Next.js |
 | Backend | Dart Frog | — | Express.js, Encore |
 | Embedded, AI & ML | — | — | LangChain, Tensorflow and Others |
+| Game | Unreal engine | — | — |
 
 #### 🚀 Platform Coverage & Focus
 
-| Platform | Practice Environment | Focus |
-|----------|--------|--------|
-| Embedded Applications | 🔒 Locked | Secondary |
-| iOS Application | 🔒 Locked | Primary |
-| Windows Application | 🔓 Unlocked | Secondary |
-| Android Application | 🔓 Unlocked | Primary |
-| macOS Application | 🔒 Locked | Secondary |
-| Web Application | 🔓 Unlocked | Primary |
-| Extension Application | 🔓 Unlocked | Secondary |
+| Platform | Practice Environment | Focus | Experience |
+|----------|--------|--------|--------|
+| Embedded Applications | 🔒 Locked | Secondary | N/A |
+| iOS Application | 🔒 Locked | Primary | N/A |
+| Windows Application | 🔓 Unlocked | Secondary | Standard |
+| Android Application | 🔓 Unlocked | Primary | High |
+| macOS Application | 🔒 Locked | Secondary | N/A |
+| Web Application | 🔓 Unlocked | Primary | Standard |
+| Extension Application | 🔓 Unlocked | Secondary | N/A |
+| Game Application | 🔓 Unlocked | Secondary | N/A |
 
 #### 🧠 Engineering Principles
 
