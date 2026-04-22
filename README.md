@@ -20,15 +20,15 @@ A Software Engineer & Entrepreneur passionate about creating applications that s
 
 #### 🚀 Platform Coverage & Focus
 
-| Platform | Practice Environment | Focus | Skill |
-|----------|--------|--------|--------|
-| Embedded Applications | 🔒 Locked | Secondary | N/A |
-| iOS Application | 🔒 Locked | Primary | N/A |
-| Windows Application | 🔓 Unlocked | Secondary | Standard |
-| Android Application | 🔓 Unlocked | Primary | Strong |
-| macOS Application | 🔒 Locked | Secondary | N/A |
-| Web Application | 🔓 Unlocked | Primary | Almost Strong |
-| Extension Application | 🔓 Unlocked | Secondary | N/A |
+| Platform | Practice Environment | Focus |
+|----------|--------|--------|
+| Embedded Applications | 🔒 Locked | Secondary |
+| iOS Application | 🔒 Locked | Primary |
+| Windows Application | 🔓 Unlocked | Secondary |
+| Android Application | 🔓 Unlocked | Primary |
+| macOS Application | 🔒 Locked | Secondary |
+| Web Application | 🔓 Unlocked | Primary |
+| Extension Application | 🔓 Unlocked | Secondary |
 
 #### 🧠 Engineering Principles
 
