@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tasir Rahman
 
-A Software Engineer & Entrepreneur passionate about creating applications that solve real problems.  
+A software engineer & entrepreneur passionate about creating applications that solve real problems.  
 
 #### 🧰 Core Learning Focus
 
@@ -14,9 +14,9 @@ A Software Engineer & Entrepreneur passionate about creating applications that s
 | Layer | Primary Stack | Secondary Stack | Exploration |
 |-------|---------------|----------------|------------|
 | Cross-Platform | Flutter | — | — |
-| Frontend | — | React.js, Next.js | WXT, Angular |
-| Backend | Dart Frog | Express.js | Encore |
-| Embedded, AI & ML | Flutter and Others | TensorFlow and Others | LangChain and Others |
+| Frontend | — | React.js | WXT, Angular, Next.js |
+| Backend | Dart Frog | — | Express.js, Encore |
+| Embedded, AI & ML | — | — | LangChain, Tensorflow and Others |
 
 #### 🚀 Platform Coverage & Focus
 
