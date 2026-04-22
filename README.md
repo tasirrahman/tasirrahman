@@ -33,9 +33,9 @@ A Software Engineer & Entrepreneur passionate about creating applications that s
 #### 🧠 Engineering Principles
 
 - Build systems for **scale**, not just for today  
-- Design UI/UX & features that **convert users into customers**  
+- Follow UI/UX design & features that **convert users into customers**  
 - Ship only when **quality benchmarks** are met  
-- Treat **security as foundational**, not optional  
+- Treat **security and performance as foundational**, not optional  
 
 #### 🌿 Life Philosophy
 
