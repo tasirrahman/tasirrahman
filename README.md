@@ -17,7 +17,7 @@ A software engineer & entrepreneur passionate about creating applications that s
 | Frontend | — | React.js | WXT, Angular, Next.js |
 | Backend | Dart Frog | — | Express.js, Encore |
 | Embedded, AI & ML | — | — | LangChain, Tensorflow and Others |
-| Game | Unreal engine | — | — |
+| Game | — | — | Unreal engine |
 
 #### 🚀 Platform Coverage & Focus
 
