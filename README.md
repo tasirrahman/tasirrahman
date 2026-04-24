@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Tasir Rahman
-A software architect (cross-platform Systems) & entrepreneur passionate about creating applications that solve real problems.
+A software architect (cross-platform systems) & entrepreneur passionate about creating applications that solve real problems.
 
 #### 🧰 Core Stack
-| Layer | Primary | Secondary | Exploring |
+| Layer | Primary | Secondary | Tertiary |
 |---|---|---|---|
-| **Server-Side** | Dart Frog | Express.js | Encore |
-| **Desktop Apps** | Flutter | — | — |
-| **Embedded Systems** | Flutter | — | — |
-| **Browser Extensions** | — | — | WXT |
-| **UI & Frontend** | — | React.js | Angular · Next.js |
-| **Game Development** | — | — | Unreal Engine · Unity |
-| **Core Languages** | Dart | JavaScript · TypeScript | C++ |
 | **Mobile Apps** | Flutter | — | — |
+| **UI & Frontend** | — | React.js · Next.js | Angular |
+| **Browser Extensions** | — | — | WXT |
+| **Desktop Apps** | Flutter | — | — |
+| **Embedded Systems** | — | — | Flutter |
+| **Game Development** | — | — |  Unreal Engine · Unity |
+| **Server-Side** | Dart Frog | Express.js | Encore |
+| **AI-ML** | — | — | Tensorflow, Langchain and Others |
+| **Core Languages** | Dart | JavaScript · TypeScript | C++ |
 | **Web Core** | HTML5 · CSS3 | — | — |
 
 #### 🚀 Platform Coverage & Focus
@@ -20,11 +21,11 @@ A software architect (cross-platform Systems) & entrepreneur passionate about cr
 | Android App | 🔓 Unlocked | Primary | High |
 | iOS App | 🔒 Locked | Primary | Low |
 | Web App | 🔓 Unlocked | Primary | Medium |
-| Embedded System | 🔒 Locked | Secondary | Low |
 | Browser Extension | 🔓 Unlocked | Secondary | Low |
-| Game | 🔓 Unlocked | Secondary | Low |
 | macOS App | 🔒 Locked | Secondary | Low |
 | Windows App | 🔓 Unlocked | Secondary | Medium |
+| Embedded System | 🔒 Locked | Tertiary | Low |
+| Game | 🔓 Unlocked | Tertiary | Low |
 
 #### 🧠 Engineering Principles
 - Build systems for **scale**, not just for today  
