@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tasir Rahman
-A software engineer & entrepreneur passionate about creating applications that solve real problems.
+A software architect (cross-platform Systems) & entrepreneur passionate about creating applications that solve real problems.
 
 #### 🧰 Core Stack
 | Layer | Primary | Secondary | Exploring |
