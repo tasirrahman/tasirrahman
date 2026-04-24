@@ -1,7 +1,14 @@
 # 👋 Hi, I'm Tasir Rahman
 A software architect (cross-platform systems) & entrepreneur passionate about creating applications that solve real problems.
 
-#### 🧰 Core Stack
+#### 🧰 Core Engineering Foundation
+
+| Category            | Skills                       |
+|--------------------|------------------------------|
+| **Languages**       | Dart, JavaScript, TypeScript, C++ |
+| **Web Fundamentals**| HTML5, CSS3                  |
+
+#### 🧰 Technology Stack Architecture
 | Layer | Primary | Secondary | Tertiary |
 |---|---|---|---|
 | **Mobile Apps** | Flutter | — | — |
@@ -12,10 +19,8 @@ A software architect (cross-platform systems) & entrepreneur passionate about cr
 | **Game Development** | — | — |  Unreal Engine · Unity |
 | **Server-Side** | Dart Frog | Express.js | Encore |
 | **AI-ML** | Genkit | Tensorflow | Langchain and Others |
-| **Core Languages** | Dart | JavaScript · TypeScript | C++ |
-| **Web Core** | HTML5 · CSS3 | — | — |
 
-#### 🚀 Platform Coverage & Focus
+#### 🚀 Platform Reach & Engineering Scope
 | Platform | Practice Environment | Focus | Experience |
 |----------|--------|--------|--------|
 | Android App | 🔓 Unlocked | Primary | High |
