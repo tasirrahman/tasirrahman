@@ -11,7 +11,7 @@ A software architect (cross-platform systems) & entrepreneur passionate about cr
 | **Embedded Systems** | — | — | Flutter |
 | **Game Development** | — | — |  Unreal Engine · Unity |
 | **Server-Side** | Dart Frog | Express.js | Encore |
-| **AI-ML** | — | — | Tensorflow, Langchain and Others |
+| **AI-ML** | Genkit | Tensorflow | Langchain and Others |
 | **Core Languages** | Dart | JavaScript · TypeScript | C++ |
 | **Web Core** | HTML5 · CSS3 | — | — |
 
