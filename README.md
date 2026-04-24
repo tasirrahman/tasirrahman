@@ -34,10 +34,13 @@ A software architect (cross-platform systems) & entrepreneur passionate about cr
 
 #### 🧠 Engineering Principles
 - Build systems for **scale**, not just for today  
-- Follow UI/UX design & features that **convert users into customers**  
-- Ship only when **quality benchmarks** are met  
-- Treat **security and performance as foundational**, not optional
+- Design with **maintainability, extensibility, and performance** as first-class constraints  
+- Follow UI/UX patterns that **improve usability and convert users into customers**  
+- Treat **security, privacy, and performance as foundational, not optional layers**  
+- Prefer **simple, evolvable architectures over early over-engineering**  
+- Write code that is **readable, testable, and production-safe**  
+- Continuously reduce **technical debt through iterative refactoring**
 
 #### 🌿 Life Philosophy
-Think, build, scale, and enjoy the journey.  
-Growth matters. So does living.
+- Think, build, scale, and enjoy the journey.  
+- Growth matters. So does living.
