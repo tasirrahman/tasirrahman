@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tasir Rahman
-A software architect (cross-platform systems) & entrepreneur passionate about creating applications that solve real problems.
+A tech entrepreneur & full-stack engineer passionate about creating applications that solve real problems.
 
 #### 🧰 Core Engineering Foundation
 
