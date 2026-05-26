@@ -15,10 +15,10 @@ A tech entrepreneur & full-stack engineer passionate about creating applications
 | **UI & Frontend** | — | React.js · Next.js | Angular |
 | **Browser Extensions** | — | — | WXT |
 | **Desktop Apps** | Flutter | — | — |
-| **Embedded Systems** | — | — | Flutter |
-| **Game Development** | — | — |  Unreal Engine · Unity |
 | **Server-Side** | Dart Frog | Express.js | Encore |
 | **AI-ML** | Genkit | Tensorflow | Langchain and Others |
+| **Embedded Systems** | — | — | Flutter |
+| **Game Development** | — | — |  Unreal Engine · Unity |
 
 #### 🚀 Platform Reach & Engineering Scope
 | Platform | Practice Environment | Focus | Experience |
